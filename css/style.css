@@ -47,6 +47,7 @@ h2{
     margin: 10px;
     transition: .5s;
     cursor: pointer;
+    border-radius: 20px;
 }
 
 .cont-botones button:hover{
