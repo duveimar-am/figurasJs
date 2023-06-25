@@ -116,7 +116,7 @@ h2{
 @keyframes ondas{
     0%{
         transform: scale(1);
-        background-color: black;
+        background-color: aquamarine;
     }
     25%{
         transform: scale(1.25);
@@ -132,7 +132,7 @@ h2{
     }
     100%{
         transform: scale(1);
-        background-color: black;
+        background-color: aqua;
     }
 }
 
