@@ -70,7 +70,11 @@ h2{
 }
 
 #figura.rectangulo{
-    width: 738px;
+    width: 200%;
+    height: 100px;
+    margin: 40px auto;
+   
+
     background: aqua;
     transition: 1s;
 }
